@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7971E&width=610&lines=MERN+Stack+Developer+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+scalable+web+apps+with+clean+code;Integrating+frontend%2C+backend%2C+and+databases+seamlessly;Turning+ideas+into+interactive+digital+experiences" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7971E&width=850&lines=MERN+Stack+Developer+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+scalable+web+apps+with+clean+code;Integrating+frontend%2C+backend%2C+and+databases+seamlessly;Turning+ideas+into+interactive+digital+experiences" />
 </p>
 
 ---
@@ -34,9 +34,7 @@
 ### 🧰 Tech Stack:
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,postman,cpp,git,github,html,css,javascript,react,tailwind,mongodb,typescript,nodejs,nextjs" width="500" />
-
 </div>
 
 
@@ -67,7 +65,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
